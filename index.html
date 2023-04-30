@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <title>Kanban Board</title>
+  </head>
+
+  <body>
+    <h1 class="head">Kalbonyan Board</h1>
+    <div class="center">
+      <div class="container">
+        <div class="column">
+          <h2 class="column-title">Not Started</h2>
+          <ul class="task-list" id="not-started">
+            <div class="dropzone"></div>
+            <button id="add-button-started" class="add-button">+ Add</button>
+          </ul>
+        </div>
+
+        <div class="column">
+          <h2 class="column-title">In Progress</h2>
+          <ul class="task-list" id="in-progress">
+            <div class="dropzone"></div>
+            <button id="add-button-progress" class="add-button">+ Add</button>
+          </ul>
+        </div>
+
+        <div class="column">
+          <h2 class="column-title">Completed</h2>
+          <ul class="task-list" id="completed">
+            <div class="dropzone"></div>
+            <button id="add-button-completed" class="add-button">+ Add</button>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

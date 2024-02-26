@@ -12,7 +12,7 @@
 }
 
 body {
-  background-image: linear-gradient(to right bottom, #37b24d, #38d9a9, #37b24d);
+  background-image: linear-gradient(to right left, #4aa4f5, #4589fe);
   min-height: 100vh;
   padding: 1rem;
 }

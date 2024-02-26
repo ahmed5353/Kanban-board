@@ -12,7 +12,12 @@
 }
 
 body {
-  background-image: linear-gradient(to right left, #4aa4f5, #4589fe);
+  background-image: hsla(237, 40%, 45%, 1);
+  background-image: linear-gradient(90deg, hsla(237, 40%, 45%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+  background-image: -moz-linear-gradient(90deg, hsla(237, 40%, 45%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+  background-image: -webkit-linear-gradient(90deg, hsla(237, 40%, 45%, 1) 0%, hsla(211, 100%, 28%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#44489F", endColorstr="#00458E", GradientType=1 );
   min-height: 100vh;
   padding: 1rem;
 }

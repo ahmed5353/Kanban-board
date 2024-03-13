@@ -10,9 +10,7 @@ Step into the world of efficient task management with our Kanban Board To-Do Lis
 
 - **Intuitive Drag-and-Drop:** Effortlessly move tasks between columns for fluid organization.
 - **Visual Workflow:** Instantly visualize task progress and prioritize with ease.
-- **Customizable Interface:** Tailor the board to fit your unique workflow and preferences.
-- **Responsive Design:** Seamlessly access and manage tasks across devices, ensuring productivity on the go.
-- **Effortless Collaboration:** Share tasks, collaborate with team members, and achieve goals together.
+
 
 ## Usage
 

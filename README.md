@@ -4,7 +4,7 @@
 
 ## Description
 
-Step into the world of efficient task management with our Kanban Board To-Do List App. Seamlessly transition between tasks, track progress, and conquer your goals with ease. Crafted with ingenuity and finesse, our application redefines the way you approach productivity.
+Efficient task management with our Kanban Board To-Do List App. Seamlessly transition between tasks, track progress, and conquer your goals with ease. Crafted with ingenuity and finesse, our application redefines the way you approach productivity.
 
 ## Features
 
